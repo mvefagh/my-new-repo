@@ -45,3 +45,4 @@ print( "Python"+ "JAVA"+ "C#") # without space in between
 
 print( "Apfel" + "Banana" ) # ApfelBanana
 
+print("Hello word")
